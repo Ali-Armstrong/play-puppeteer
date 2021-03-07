@@ -1,0 +1,15 @@
+{
+  "name": "puppeteer-play",
+  "version": "1.0.0",
+  "description": "trying out puppeteer",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ali",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "puppeteer": "^8.0.0"
+  }
+}
